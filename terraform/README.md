@@ -1,0 +1,1 @@
+Terraform permet la génération d'instance AWS et permet d'y accéder par connexion SSH.
